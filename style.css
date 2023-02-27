@@ -1,0 +1,16 @@
+*{
+    margin: 0px !important; 
+    padding: 0px !important;
+}
+.main{
+    display: flex !important;
+    flex-direction: row !important;
+}
+.newbtn{
+    border: 1px solid orange;
+    margin-top: 5px !important;
+    padding: 5px 25px !important;
+}
+.search{
+margin: 0% !important;
+}
